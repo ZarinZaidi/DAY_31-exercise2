@@ -17,7 +17,7 @@ function Navbar() {
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav mr-auto">
                         <li class="nav-item active">
-                            <Link to="/home" class="nav-link">Home</Link>
+                            <Link to="/" class="nav-link">Home</Link>
                         </li>
                         <li class="nav-item active">
                             <Link to="/contact" class="nav-link">Contact</Link>
